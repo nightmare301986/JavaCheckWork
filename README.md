@@ -22,7 +22,5 @@ Toy-shop app (JAVA)
 
 ---
 
-Инструменты:
 
-+ [Java SE Development Kit 19.0.2](https://www.oracle.com/cis/java/technologies/downloads/)
 
